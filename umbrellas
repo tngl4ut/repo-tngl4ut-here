@@ -1,0 +1,49 @@
+<html>
+  <head>
+    <title>Artisanal Umbrellas for the Good</title>
+      <link rel="stylesheet" href="top_nav.css"
+    type="text\css">
+    <link rel="stylesheet" href="styles.css"
+    type="text\css">
+  </head>
+  <body>
+    <header>
+      <h1>Artisanal Umbrellas for the Good</h1>
+        <nav>
+          <ul>
+            <li>Home</li>
+            <li>About Us</li>
+            <li>Contact</li>
+          </ul>
+        </nav>
+      </header>
+      <section>
+        <article>
+          <img src="good-umbrellas.jpg">
+          <p>Life is too short to walk around with a broken, lame or just plain ugly umbrella. Artisanal Umbrellas came together to link Umbrella challenged Portlandians with locally sourced, hand crafted, environmentally friendly umbrellas. For free! We take donations from Umbrella Artisans make high quality, beautiful designed umbrellas and share them with those unfortunates walking around with less than stellar umbrellas.</p>
+        </article>
+        <article>
+          <h2>Need an umbrella?</h2>
+            <img src="rainy-day-broken-umbrella.jpg">
+            <p>Are you umbrella challenged? Do you know the shame of an ugly umbrella? The first step is admitted your problem. The second is sending us your name so we can provide you with a beautiful new umbrella!</p>
+        </article>
+      </section>
+      <section>
+        <article>
+          <h2>Donate an umbrella</h2>
+            <img src="beautiful-umbrella.jpg">
+            <p>Are you a local Portland umbrella artisan? Do you build beautiful, functional and quality umbrellas? Do you get joy from helping the umbrella challenged? Donate now!</p>
+        </article>
+      </section>
+      <section>
+        <article>
+          <h2>How to Donate</h2>
+            <p>It's easy to contribute an umbrella!  Select a new or gently used quality locally handmade non-GMO umbrella made of vegan, organic natural materials, packaged in carefully in recyled materials, and send it to:</p>
+            <address>Artisinal Umbrellas for the Good<br>
+            P.O. Box 503<br>
+            Portland, OR 97201<br></address>
+              <img src="3285565869_307eed97aa.jpg">
+            <p>If you would like to turn in an old, shoddy umbrella, please do! It will be donated to the citizens of Seattle.
+          </article>
+        </section>
+  </body>

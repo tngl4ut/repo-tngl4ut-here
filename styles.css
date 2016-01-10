@@ -1,0 +1,8 @@
+html {
+  background-color: gray;
+}
+nav ul {
+  margin-left: 0;
+  position: relative;
+  left: -5px;
+}
